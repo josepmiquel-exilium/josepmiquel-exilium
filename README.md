@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-- 👨‍💻 All of my projects are available at [https://exilium.cat](https://exilium.cat)
+- 👨‍💻 Check out my portfolio [https://exilium.cat](https://exilium.cat)
 
 - 📫 How to reach me **josepmiquel@exilium.cat**
 
