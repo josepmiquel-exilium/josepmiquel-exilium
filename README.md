@@ -9,4 +9,6 @@
 
 - 📫 How to reach me **josepmiquel@exilium.cat**
 
+- Also in gitlab [https://gitlab.com/tommyshelby1917](https://gitlab.com/tommyshelby1917)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josepmiquel-exilium&show_icons=true&locale=en&layout=compact" alt="josepmiquel-exilium" /></p>
