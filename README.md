@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **josepmiquel@exilium.cat**
 
-- Also in gitlab [https://gitlab.com/tommyshelby1917](https://gitlab.com/tommyshelby1917)
+- Also in [https://gitlab.com/tommyshelby1917](https://gitlab.com/tommyshelby1917)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=josepmiquel-exilium&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
