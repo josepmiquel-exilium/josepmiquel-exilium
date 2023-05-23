@@ -12,5 +12,3 @@
 - Also in [https://gitlab.com/tommyshelby1917](https://gitlab.com/tommyshelby1917)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=josepmiquel-exilium&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josepmiquel-exilium&show_icons=true&locale=en&layout=compact" alt="josepmiquel-exilium" /></p>
