@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Josep Miquel</h1>
-<h2 align="left">Full Stack Software Developer</h2>
+<h2 align="left">Software Developer</h2>
 
 <h3 align="left">Connect with me:</h3>
 
