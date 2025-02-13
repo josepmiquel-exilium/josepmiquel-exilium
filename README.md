@@ -1,18 +1,19 @@
-```python
-class SoftwareDeveloper:
+```javascript
+class SoftwareDeveloper {
+    constructor() {
+        this.name = "Josep Miquel";
+        this.role = "Software Developer";
+        this.techStack = ["React", "NextJS", "Express.js", "Laravel", "VueJS", "Django"];
+        this.portfolio = "exilium.cat";
+        this.email = "josepmiquel@exilium.cat";
+        this.languageSpoken = ["en_US", "fr_BE", "ca_CA", "es_ES"];
+    }
 
-    def __init__(self):
-        self.name = "Josep Miquel"
-        self.role = "Software Developer"
-        self.tech_stack = ["React", "NextJS", "Express.js", "Laravel", "VueJS", "Django"]
-        self.portfolio = "exilium.cat"
-        self.email = "josepmiquel@exilium.cat"
-        self.language_spoken = ["en_US", "fr_BE", "ca_CA", "es_ES", ]
+    sayHi() {
+        console.log("Thanks for dropping by, see you in Tatooine!");
+    }
+}
 
-    def say_hi(self):
-        print("Thanks for dropping by, see you in Tattoine!")
-
-
-me = SoftwareDeveloper()
-me.say_hi()
+const me = new SoftwareDeveloper();
+me.sayHi();
 ```
