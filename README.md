@@ -14,6 +14,6 @@ class SoftwareDeveloper {
     }
 }
 
-const me = new SoftwareDeveloper();
-me.sayHi();
+const josep = new SoftwareDeveloper();
+josep.sayHi();
 ```
