@@ -17,3 +17,5 @@ class SoftwareDeveloper {
 const josep = new SoftwareDeveloper();
 josep.sayHi();
 ```
+
+![josepmiquel-exilium's Streak](https://github-readme-streak-stats.herokuapp.com/?user=josepmiquel-exilium&theme=merko&hide_border=false)
