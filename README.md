@@ -17,5 +17,3 @@ class SoftwareDeveloper {
 const josep = new SoftwareDeveloper();
 josep.sayHi();
 ```
-
-![josepmiquel-exilium's Streak](https://github-readme-streak-stats.herokuapp.com/?user=josepmiquel-exilium&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
