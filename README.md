@@ -18,4 +18,4 @@ const josep = new SoftwareDeveloper();
 josep.sayHi();
 ```
 
-![Josep Miquel GitHub stats](https://github-readme-stats.vercel.app/api?username=josepmiquel-exilium&hide=stars,prs,issues)
+![Josep Miquel GitHub stats](https://github-readme-stats.vercel.app/api?username=josepmiquel-exilium&hide=contribs,stars,prs,issues&theme=tokyonight&include_all_commits=true)
