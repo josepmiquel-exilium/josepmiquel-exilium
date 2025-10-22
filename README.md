@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Josep Miquel
-
-
-
----
-
 ```js
 // Software Developer passionate about creating clean, efficient, and user-friendly web applications.  
 // I enjoy working with both frontend and backend technologies.
